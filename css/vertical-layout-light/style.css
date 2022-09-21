@@ -26028,8 +26028,6 @@ body.avgrund-active {
 
 /* Data Tables */
 .dataTables_wrapper {
-  padding-left: 0;
-  padding-right: 0;
 }
 
 .dataTables_wrapper label {
@@ -30485,6 +30483,10 @@ table.dataTable thead .sorting::before, table.dataTable thead .sorting::after, t
 
 table.dataTable thead .sorting_asc::before, table.dataTable thead .sorting_desc::after {
   opacity: 1;
+}
+
+.card .card-title .add {
+  float: right;
 }
 
 @media (max-width: 991px) {

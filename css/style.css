@@ -2,8 +2,13 @@
     font-family: 'Reem Kufi Fun', sans-serif;
 }
 footer{
+  margin: 0px;
+  padding: 0px;
   height: 100px;
   background-color: #000000;
+  color: #F3F4F5;
+  text-align: center;
+  align-items: center;
 }
 main{
 background-image: url(../img/wallpaperbetter.com_7680x4320.jpg);
